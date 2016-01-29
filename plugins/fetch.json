@@ -1,0 +1,27 @@
+{
+    "pushbots-cordova-plugin": {
+        "source": {
+            "type": "git",
+            "url": "http://github.com/pushbots/phonegap",
+            "subdir": "."
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "cordova-plugin-android-support-v4": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-plugin-android-support-v4"
+        },
+        "is_top_level": false,
+        "variables": {}
+    },
+    "cordova-plugin-whitelist": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-plugin-whitelist@1"
+        },
+        "is_top_level": true,
+        "variables": {}
+    }
+}
